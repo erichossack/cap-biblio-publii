@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "CAP Biblio",
+    "description": "",
+    "home_page_url": "https://capbiblio.fr",
+    "feed_url": "https://capbiblio.fr/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Bobby Picciotti"
+    },
+    "items": [
+    ]
+}

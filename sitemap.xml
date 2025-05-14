@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://capbiblio.fr/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://capbiblio.fr/</loc>
+</url>
+<url>
+<loc>https://capbiblio.fr/cap-biblio.html</loc>
+<lastmod>2025-05-14T16:28:57+02:00</lastmod>
+<image:image>
+<image:loc>https://capbiblio.fr/media/posts/1/gallery/DSC_0079-thumbnail.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://capbiblio.fr/media/posts/1/gallery/DSC_0083-thumbnail.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://capbiblio.fr/expos.html</loc>
+<lastmod>2025-05-14T16:57:08+02:00</lastmod>
+</url>
+<url>
+<loc>https://capbiblio.fr/fundraising.html</loc>
+<lastmod>2025-05-14T17:03:00+02:00</lastmod>
+<image:image>
+<image:loc>https://capbiblio.fr/media/posts/2/gallery/Plan-ModifieA-2023-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://capbiblio.fr/media/posts/2/gallery/Presentation-Eglise-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
